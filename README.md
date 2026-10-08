@@ -21,4 +21,4 @@ Written from Google's documentation of the Places API (New) and the Business Pro
 
 [Documentation](docs/index.md): the options, the calls, Google's terms, what was verified.
 
-License: LGPL-3.0-or-later.
+License: MIT since 2026-10-09; earlier versions remain published under LGPL-3.0-or-later.
