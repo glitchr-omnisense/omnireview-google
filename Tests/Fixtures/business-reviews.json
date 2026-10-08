@@ -1,0 +1,9 @@
+{
+  "reviews": [
+    {"reviewId": "AbFvOqm1", "name": "accounts/101/locations/202/reviews/AbFvOqm1", "reviewer": {"displayName": "Camille R.", "profilePhotoUrl": "https://lh3.googleusercontent.com/a/camille"}, "starRating": "FIVE", "comment": "Un accueil chaleureux.", "createTime": "2026-09-23T19:12:41Z", "updateTime": "2026-09-23T19:12:41Z", "reviewReply": {"comment": "Merci Camille !", "updateTime": "2026-09-24T08:00:00Z"}},
+    {"reviewId": "AbFvOqm2", "name": "accounts/101/locations/202/reviews/AbFvOqm2", "reviewer": {"displayName": "Jordan K."}, "starRating": "THREE", "createTime": "2026-09-01T12:00:00Z", "updateTime": "2026-09-01T12:00:00Z"}
+  ],
+  "averageRating": 4.6,
+  "totalReviewCount": 128,
+  "nextPageToken": "next-page"
+}

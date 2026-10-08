@@ -1,0 +1,44 @@
+{
+    "name": "omnireview/google",
+    "type": "library",
+    "description": "Omnireview Google: an establishment's Google rating and reviews through the Places API (New) - up to five, with their authors' attribution - and, for its owner, every review and replying through the Business Profile API; the link to leave a review; Google's display and caching rules declared.",
+    "keywords": [
+        "reviews",
+        "google-reviews",
+        "places-api",
+        "business-profile",
+        "omnireview"
+    ],
+    "homepage": "https://github.com/glitchr-studio/omnireview-google",
+    "license": "LGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Marco Meyer",
+            "email": "marco.meyer@glitchr.io"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "glitchr/omnireview": "^1.0@dev",
+        "symfony/http-client": "^6.4|^7.0|^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Omnireview\\Google\\": ""
+        },
+        "exclude-from-classmap": [
+            "/Tests/"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Omnireview\\Google\\Tests\\": "Tests/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
