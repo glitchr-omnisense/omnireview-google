@@ -11,7 +11,7 @@ order: 1
 composer require omnireview/google
 ```
 
-PHP 8.2 or later, `omniscient/omnireview` and `symfony/http-client` (give the factory your
+PHP 8.2 or later, `omnisense/omnireview` and `symfony/http-client` (give the factory your
 application's client, a `MockHttpClient` in a test).
 
 - For anyone's place: an API key of a Google Cloud project with the **Places API (New)** enabled,

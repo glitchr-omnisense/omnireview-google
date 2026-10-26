@@ -1,6 +1,6 @@
 # omnireview/google
 
-**Google reviews** for [omniscient/omnireview](https://github.com/glitchr-studio/omnireview): any
+**Google reviews** for [omnisense/omnireview](https://github.com/glitchr-omnisense/omnireview): any
 place's rating, number of ratings and up to five reviews through the Places API (New); for the
 place's owner, every review and replying through the Business Profile API.
 
